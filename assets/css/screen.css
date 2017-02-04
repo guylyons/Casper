@@ -1738,15 +1738,20 @@ body.page-template .post-title {
 
 .poweredby {
     display: block;
-    width: 45%;
-    float: right;
-    text-align: right;
+    /*width: 45%;*/
+    /*float: right;*/
+    /*text-align: right;*/
 }
 
 .copyright {
     display: block;
-    width: 45%;
-    float: left;
+    /*width: 45%;*/
+    /*float: left;*/
+}
+
+.site-footer {
+    text-align: center;
+    font-size: .85em;
 }
 
 
